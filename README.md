@@ -1,7 +1,6 @@
 # Desafio-2RP #
 ####  2RP Net - Teste para Data Engineer ####
 
-
 #### Esse é um repositório criado com o objetivo de atender as demandas e exigências previstas no teste de Data Engineer da 2RP Net. ####
 #### Para tanto, ao longo desse desafio foram realizadas as seguintes etapas: ####
 
@@ -9,7 +8,6 @@
 - [x] 1° - Extração de Dados por meio de uma API
 - [x] 2° - Processo de Persistência dos dados até o armazenamento dos mesmos em um Banco
 - [x] 3° - Elaboração de Scripts para o Tratamento desejado dos Dados
-
 
 #### ETAPA 1° ####
 ##### Para a realização dessa etapa utilizou-se como Linguagem padrão o Python - Jupyter e o Banco de Dados do MongoDB #####
